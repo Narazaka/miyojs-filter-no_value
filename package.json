@@ -1,0 +1,20 @@
+{
+	"name": "miyojs-filter-no_value",
+	"version": "0.0.1",
+	"description": "no_value - empty value filter for Miyo",
+	"main": "no_value.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/miyojs-filter-no_value.git"
+	}
+}
