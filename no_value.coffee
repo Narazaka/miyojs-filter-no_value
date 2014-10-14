@@ -3,7 +3,7 @@
 unless MiyoFilters?
 	MiyoFilters = {}
 
-MiyoFilters.no_value = ->
+MiyoFilters.no_value = type: 'any-value', filter: ->
 
 if module? and module.exports?
 	module.exports = MiyoFilters
